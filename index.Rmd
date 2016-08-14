@@ -61,6 +61,10 @@ The application contains the following Statistics by State
 Data used was published by Bureau of Transportation Statistics, United States Department of Transportation. All figures are based on 2013 data.
 
 
+## The Code
+
+Shiny package was used for the web app using pageWithSidebar as layout while Maps package is used for the visual mapping of each state. The codes for ui and server are at both found at JHU-DDP repository on github (https://github.com/mbarona/JHU-DDP).
+
 
 
 
