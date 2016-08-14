@@ -58,7 +58,7 @@ The application contains the following Statistics by State
 
 ## The Data
 
-Data used was published by Bureau of Transportation Statistics, United States Department of Transportation. All figures are based on 2013 data.
+Data used was published by Bureau of Transportation Statistics, United States Department of Transportation. All figures are based on 2013 data. The csv data used for the app is at https://github.com/mbarona/JHU-DDP/blob/master/data.csv.
 
 
 ## The Code
